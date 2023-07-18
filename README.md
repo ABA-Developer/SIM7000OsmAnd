@@ -1,0 +1,2 @@
+# SIM7000OsmAnd
+Update 18/07/2023
