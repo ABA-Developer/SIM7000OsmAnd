@@ -16,7 +16,6 @@ void setup()
   pinMode(BATTERY_PIN, INPUT);
   
   initsdcard(); // init SD card
-
   Serial.begin(115200);
 }
 
