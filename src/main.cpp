@@ -18,8 +18,6 @@ void setup()
   initsdcard(); // init SD card
 
   Serial.begin(115200);
-
-  
 }
 
 void loop(){}
